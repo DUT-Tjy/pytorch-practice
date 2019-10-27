@@ -1,2 +1,2 @@
 # pytorch-practice
-mew to pytorch
+some projects using pytorch
